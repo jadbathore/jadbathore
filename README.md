@@ -50,7 +50,7 @@
             <td><a href="https://github.com/jadbathore/Api_express">Api_express</a></td>
             <td> 
                 <p>
-                    Projet effectué avec flask et l’aide d’anaconda qui m’a permis de créer l’environnement de codage.Gestion des erreur à 2 niveaux Certaine erreur renvoie un message flash d’autre effectue une redirection 
+                    Petit projet d'entrainement utilisant node Js express ainsi que mongoDB. 
                 </p>
         </tr>
         <tr>
