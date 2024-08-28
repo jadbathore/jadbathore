@@ -74,7 +74,7 @@
             <td><a href="https://github.com/jadbathore/API_recette">API_recette</a></td>
             <td> 
                 <p>
-Une API php crée dans le cadre d'une evaluation fourni un interface json on peux ajouter ou visualisé des recette des recette 
+Une API php crée dans le cadre d'une evaluation fourni un interface json on peux ajouter ou visualisé des recette.
                 </p>
         </tr>
   </table>
