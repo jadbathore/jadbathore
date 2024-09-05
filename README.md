@@ -30,6 +30,14 @@
         </tr>
         <tr>
             <td> Php </td>
+            <td><a href="https://github.com/jadbathore/fight-game-php">fight-game-php</a></td>
+            <td> 
+                <p>
+                    Étude de cas pour un recrutement éventuelle sur un test devant respecter les specification dans (spec) pour pouvoir passer </p>
+            </td>
+        </tr>
+        <tr>
+            <td> Php </td>
             <td><a href="https://github.com/jadbathore/projet_php_ecole">projet_php_ecole</a></td>
             <td> 
                 <p>
