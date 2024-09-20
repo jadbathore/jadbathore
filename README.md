@@ -45,6 +45,14 @@
                 Effectuer de requête mysql intéressante
                 </p>
         </tr>
+       <tr>
+            <td> vue </td>
+            <td><a href="https://github.com/jadbathore/projet_vue_API">projet_vue_API</a></td>
+            <td> 
+                <p>
+                 Projet en vue.js pour un recrutement éventuelle utilisant l'api spaceX utilisant également Tailwind  
+                </p>
+        </tr>
         <tr>
             <td> Python</td>
             <td><a href="https://github.com/jadbathore/flask_login">flask_login</a></td>
