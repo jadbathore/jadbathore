@@ -33,7 +33,17 @@
             <td><a href="https://github.com/jadbathore/fight-game-php">fight-game-php</a></td>
             <td> 
                 <p>
-                    Étude de cas pour un recrutement éventuelle sur un test devant respecter les specification dans (spec) pour pouvoir passer </p>
+                    Étude de cas pour un recrutement éventuelle sur un test devant respecter les specification dans (spec)                       pour pouvoir passer utilise des design pattern tel que le singletone ainsi que l'abstract factory.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td> Php (symfony) </td>
+            <td><a href="https://github.com/jadbathore/Api_securite_symfony_jwt">Api_securite_symfony_jwt</a></td>
+            <td> 
+                <p>
+                    Étude de cas en php utilisant le framework symfony pour un API sécurisé utilisant un token jwt.
+                </p>
             </td>
         </tr>
         <tr>
@@ -70,7 +80,7 @@
                 </p>
         </tr>
         <tr>
-            <td> Javascript(Angular)</td>
+            <td> Typescript(Angular)</td>
             <td><a href="https://github.com/jadbathore/projet_angular">projet_angular</a></td>
             <td> 
                 <p>
