@@ -21,6 +21,15 @@
             </td>
         </tr>
         <tr>
+            <td> Rust </td>
+            <td><a href="https://github.com/jadbathore/stampy-php-cli">stampy-php-cli</a></td>
+            <td> 
+                <p>
+                    stampy/php-cli est une extension qui permet de créer une interface en ligne de commande pour du code PHP natif (vanilla PHP).
+                </p>
+            </td>
+        </tr>
+        <tr>
             <td> Php </td>
             <td><a href="https://github.com/jadbathore/Organinateur_de_fichier-">Organinateur_de_fichier</a></td>
             <td> 
