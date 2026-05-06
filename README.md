@@ -1,5 +1,10 @@
-
-
+<div align="center" >
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="rjavascript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
+  
+</div>
 <div align="center">
 <img width="200"  alt="git_img" src="https://github.com/user-attachments/assets/f677668a-b299-4681-9083-130d8b22c34d">
 </div>
