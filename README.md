@@ -70,7 +70,7 @@
     <td align="center" width="30%"> 
       <a href="https://github.com/jadbathore/stampy-php-cli"><img width=60% src="https://img.shields.io/badge/Close-stampy_php_cli-red?logo=github&style=plastic"/></a>
     </td>
-     <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%" /><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50%" height="50%"/></td>
+     <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%" /><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50%" /></td>
     <td align="center" width="50%"> command line interface for php with a docker version </td>
   </tr>
 </table>
