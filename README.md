@@ -2,11 +2,40 @@
 <img width="200"  alt="git_img" src="https://github.com/user-attachments/assets/f677668a-b299-4681-9083-130d8b22c34d">
 </div>
 
-![Static Badge](https://img.shields.io/badge/jadbathore/three_js_project))
-
 # My projects focus on:
 ### ☁ cloud computing
   
+<table >
+  <tr>
+    <th> project </th>
+    <th> langage </th>
+    <th> utility </th>
+  </tr>
+  <tr>
+    <td align="center" width="30%"> 
+      <a href="https://github.com/jadbathore/vitual-tcp-serveur"> <img width=60% src="https://img.shields.io/badge/Open-vitual_tcp_serveur-green?logo=github&style=plastic"/></a>
+    </td>
+     <td align="center" width="20%"><img src="https://github.com/user-attachments/assets/92131dbc-ac6d-4794-93cf-370809384794" title="rust" alt="rust" width="50%" height="50%"/></td>
+    <td align="center" width="50%"> cloud server + client wasi + deamon server </td>
+  </tr>
+  <tr>
+    <td align="center" width="30%"> 
+      <a href="https://github.com/jadbathore/mini-blunder"> <img width=60% src="https://img.shields.io/badge/Open-mini_blunder-green?logo=github&style=plastic"/></a>
+    </td>
+     <td align="center" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50%" height="50%"/></td>
+    <td align="center" width="50%"> mini homemade typescript blunder + web worker provider </td>
+  </tr>
+  <tr>
+    <td align="center" width="30%"> 
+      <a href="https://github.com/jadbathore/tcp-provider"> <img width=60% src="https://img.shields.io/badge/Open-tcp_provider-green?logo=github&style=plastic"/></a>
+    </td>
+     <td align="center" width="20%"><img src="https://github.com/user-attachments/assets/92131dbc-ac6d-4794-93cf-370809384794" title="rust" alt="rust" width="50%" height="50%"/></td>
+    <td align="center" width="50%"> commande line interface to the deamon server </td>
+  </tr>
+</table>
+
+### 🌳 three.js 
+
 <table>
   <tr>
     <th> project </th>
@@ -14,123 +43,38 @@
     <th> utility </th>
   </tr>
   <tr>
-    <th> cloud server + clien </th>
-     <th><img src="https://github.com/user-attachments/assets/92131dbc-ac6d-4794-93cf-370809384794" title="rust" alt="rust" width="20%" height="20%"/> </th>
-    <th> cloud server + client wasi </th>
+    <td align="center" width="30%"> 
+      <a href="https://github.com/jadbathore/three_js_project"><img width=60% src="https://img.shields.io/badge/Close-three_js_project-red?logo=github&style=plastic"/></a>
+    </td>
+     <td align="center" width="20%"><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8962c4d6-7472-4b7b-b1af-494b9c79d52c" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50%" height="50%"/></td>
+    <td align="center" width="50%"> cloud server + client wasi + deamon server </td>
+  </tr>
+  <tr>
+    <td align="center" width="30%"> 
+      <a href="https://github.com/jadbathore/jadbathore.github.io"><img width=60% src="https://img.shields.io/badge/Open-jadbathore_github_io-green?logo=github&style=plastic"/></a>
+    </td>
+     <td align="center" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50%" height="50%"/></td>
+    <td align="center" width="50%"> <a href="https://jadbathore.github.io">render</a> </td>
   </tr>
 </table>
 
+### 🔌 composer plugin 
 
-<h1>Mes projets </h1>
+<table>
+  <tr>
+    <th> project </th>
+    <th> langage </th>
+    <th> utility </th>
+  </tr>
+  <tr>
+    <td align="center" width="30%"> 
+      <a href="https://github.com/jadbathore/stampy-php-cli"><img width=60% src="https://img.shields.io/badge/Close-stampy_php_cli-red?logo=github&style=plastic"/></a>
+    </td>
+     <td align="center" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50%" height="50%"/><img src="https://github.com/user-attachments/assets/92131dbc-ac6d-4794-93cf-370809384794" title="rust" alt="rust" width="50%" height="50%"/></td>
+    <td align="center" width="50%"> command line interface for php with a docker version </td>
+  </tr>
+</table>
 
-  <table>
-    <tr>
-      <th> langage </th>
-      <th> projet </th>
-      <th> description </th>
-    </tr>
-        <tr>
-            <td> Javascript </td>
-            <td><a href="https://github.com/jadbathore/three_js_project">three_js_project</a></td>
-            <td> 
-                <p>Compiler Three js permettant en partant d’un dossier (‘threeElement’) de compiler tous le fichier en un seul pour être par la suite interprété par script html (utilise nodeJs + express). Possède un CLI permettant de sauvegarder un fichier compiler sur mongoDB
-                    + un système de compilation dynamique.</p>
-            </td>
-        </tr>
-        <tr>
-            <td> Rust </td>
-            <td><a href="https://github.com/jadbathore/stampy-php-cli">stampy-php-cli</a></td>
-            <td> 
-                <p>
-                    stampy/php-cli est une extension qui permet de créer une interface en ligne de commande pour du code PHP natif (vanilla PHP).
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td> Php </td>
-            <td><a href="https://github.com/jadbathore/Organinateur_de_fichier-">Organinateur_de_fichier</a></td>
-            <td> 
-                <p>
-                    Ce projet sert à organiser des fichiers sur un environnement macOS(uniquement) depuis un navigateur. Effectué sans Symfony avec création d’un routeur de template twig gestion des erreur dynamique.</p>
-            </td>
-        </tr>
-        <tr>
-            <td> Php </td>
-            <td><a href="https://github.com/jadbathore/fight-game-php">fight-game-php</a></td>
-            <td> 
-                <p>
-                    Étude de cas pour un recrutement éventuelle sur un test devant respecter les specification dans (spec)                       pour pouvoir passer utilise des design pattern tel que le singletone ainsi que l'abstract factory.
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td> Php (symfony) </td>
-            <td><a href="https://github.com/jadbathore/Api_securite_symfony_jwt">Api_securite_symfony_jwt</a></td>
-            <td> 
-                <p>
-                    Étude de cas en php utilisant le framework symfony pour un API sécurisé utilisant un token jwt.
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td> Php </td>
-            <td><a href="https://github.com/jadbathore/projet_php_ecole">projet_php_ecole</a></td>
-            <td> 
-                <p>
-                Petit projet php effectuer dans le cadre d'une évaluations avec gestion des erreurs détailler affichage conditionnel.
-                Effectuer de requête mysql intéressante
-                </p>
-        </tr>
-       <tr>
-            <td> vue </td>
-            <td><a href="https://github.com/jadbathore/projet_vue_API">projet_vue_API</a></td>
-            <td> 
-                <p>
-                 Projet en vue.js pour un recrutement éventuelle utilisant l'api spaceX utilisant également Tailwind  
-                </p>
-        </tr>
-        <tr>
-            <td> Python</td>
-            <td><a href="https://github.com/jadbathore/flask_login">flask_login</a></td>
-            <td> 
-                <p>
-                    Projet effectué avec flask et l’aide d’anaconda qui m’a permis de créer l’environnement de codage.Gestion des erreur à 2 niveaux Certaine erreur renvoie un message flash d’autre effectue une redirection 
-                </p>
-        </tr>
-        <tr>
-            <td> Javascript </td>
-            <td><a href="https://github.com/jadbathore/Api_express">Api_express</a></td>
-            <td> 
-                <p>
-                    Petit projet d'entrainement utilisant node Js express ainsi que mongoDB. 
-                </p>
-        </tr>
-        <tr>
-            <td> Typescript(Angular)</td>
-            <td><a href="https://github.com/jadbathore/projet_angular">projet_angular</a></td>
-            <td> 
-                <p>
-                    Projet angular de recuperation des donné en angular avec l’API : https://api.gouv.fr/les-api/api-annuaire-educatio
-                </p>
-        </tr>
-        <tr>
-            <td> Php(symfony)</td>
-            <td><a href="https://github.com/jadbathore/projet_symfony">projet_symfony</a></td>
-            <td> 
-                <p>
-                    projet symfony suivi de ticket 
-                </p>
-        </tr>
-        <tr>
-            <td> Php </td>
-            <td><a href="https://github.com/jadbathore/API_recette">API_recette</a></td>
-            <td> 
-                <p>
-Une API php crée dans le cadre d'une evaluation fourni un interface json on peux ajouter ou visualisé des recette.
-                </p>
-        </tr>
-  </table>
-  
 ## language and stack
 
 <p float="left">
