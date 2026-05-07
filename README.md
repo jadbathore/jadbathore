@@ -13,21 +13,21 @@
   </tr>
   <tr>
     <td align="center" width="30%"> 
-      <a href="https://github.com/jadbathore/vitual-tcp-serveur"> <img width=60% src="https://img.shields.io/badge/Open-vitual_tcp_serveur-green?logo=github&style=plastic"/></a>
+      <a href="https://github.com/jadbathore/vitual-tcp-serveur"><img src="https://img.shields.io/badge/Open-vitual_tcp_serveur-green?logo=github&style=plastic"/></a>
     </td>
      <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%"/></td>
     <td align="center" width="50%"> cloud server + client wasi + deamon server </td>
   </tr>
   <tr>
     <td align="center" width="30%"> 
-      <a href="https://github.com/jadbathore/mini-blunder"> <img width=60% src="https://img.shields.io/badge/Open-mini_blunder-green?logo=github&style=plastic"/></a>
+      <a href="https://github.com/jadbathore/mini-blunder"> <img src="https://img.shields.io/badge/Open-mini_blunder-green?logo=github&style=plastic"/></a>
     </td>
      <td align="center" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50%" height="50%"/></td>
     <td align="center" width="50%"> mini homemade typescript blunder + web worker provider </td>
   </tr>
   <tr>
     <td align="center" width="30%"> 
-      <a href="https://github.com/jadbathore/tcp-provider"> <img width=60% src="https://img.shields.io/badge/Open-tcp_provider-green?logo=github&style=plastic"/></a>
+      <a href="https://github.com/jadbathore/tcp-provider"> <img src="https://img.shields.io/badge/Open-tcp_provider-green?logo=github&style=plastic"/></a>
     </td>
      <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%" /></td>
     <td align="center" width="50%"> commande line interface to the deamon server </td>
@@ -44,14 +44,14 @@
   </tr>
   <tr>
     <td align="center" width="30%"> 
-      <a href="https://github.com/jadbathore/three_js_project"><img width=60% src="https://img.shields.io/badge/Close-three_js_project-red?logo=github&style=plastic"/></a>
+      <a href="https://github.com/jadbathore/three_js_project"><img src="https://img.shields.io/badge/Close-three_js_project-red?logo=github&style=plastic"/></a>
     </td>
      <td align="center" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50%" height="50%"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50%" height="50%"/></td>
     <td align="center" width="50%"> three.js blunder + transpiler  </td>
   </tr>
   <tr>
     <td align="center" width="30%"> 
-      <a href="https://github.com/jadbathore/jadbathore.github.io"><img width=60% src="https://img.shields.io/badge/Open-jadbathore_github_io-green?logo=github&style=plastic"/></a>
+      <a href="https://github.com/jadbathore/jadbathore.github.io"><img src="https://img.shields.io/badge/Open-jadbathore_github_io-green?logo=github&style=plastic"/></a>
     </td>
      <td align="center" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50%" height="50%"/></td>
     <td align="center" width="50%"> <a href="https://jadbathore.github.io">render</a> </td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td align="center" width="30%"> 
-      <a href="https://github.com/jadbathore/stampy-php-cli"><img width=60% src="https://img.shields.io/badge/Close-stampy_php_cli-red?logo=github&style=plastic"/></a>
+      <a href="https://github.com/jadbathore/stampy-php-cli"><img src="https://img.shields.io/badge/Close-stampy_php_cli-red?logo=github&style=plastic"/></a>
     </td>
      <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%" /><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50%" /></td>
     <td align="center" width="50%"> command line interface for php with a docker version </td>
