@@ -47,7 +47,7 @@
       <a href="https://github.com/jadbathore/three_js_project"><img width=60% src="https://img.shields.io/badge/Close-three_js_project-red?logo=github&style=plastic"/></a>
     </td>
      <td align="center" width="20%"><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8962c4d6-7472-4b7b-b1af-494b9c79d52c" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50%" height="50%"/></td>
-    <td align="center" width="50%"> cloud server + client wasi + deamon server </td>
+    <td align="center" width="50%"> three.js blunder + transpiler  </td>
   </tr>
   <tr>
     <td align="center" width="30%"> 
