@@ -15,7 +15,7 @@
     <td align="center" width="30%"> 
       <a href="https://github.com/jadbathore/vitual-tcp-serveur"> <img width=60% src="https://img.shields.io/badge/Open-vitual_tcp_serveur-green?logo=github&style=plastic"/></a>
     </td>
-     <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%" height="50%" /></td>
+     <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%"/></td>
     <td align="center" width="50%"> cloud server + client wasi + deamon server </td>
   </tr>
   <tr>
