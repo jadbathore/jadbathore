@@ -15,7 +15,7 @@
     <td align="center" width="30%"> 
       <a href="https://github.com/jadbathore/vitual-tcp-serveur"> <img width=60% src="https://img.shields.io/badge/Open-vitual_tcp_serveur-green?logo=github&style=plastic"/></a>
     </td>
-     <td align="center" width="20%"><img src="https://github.com/user-attachments/assets/92131dbc-ac6d-4794-93cf-370809384794" title="rust" alt="rust" width="50%" height="50%"/></td>
+     <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%" height="50%" /></td>
     <td align="center" width="50%"> cloud server + client wasi + deamon server </td>
   </tr>
   <tr>
@@ -29,7 +29,7 @@
     <td align="center" width="30%"> 
       <a href="https://github.com/jadbathore/tcp-provider"> <img width=60% src="https://img.shields.io/badge/Open-tcp_provider-green?logo=github&style=plastic"/></a>
     </td>
-     <td align="center" width="20%"><img src="https://github.com/user-attachments/assets/92131dbc-ac6d-4794-93cf-370809384794" title="rust" alt="rust" width="50%" height="50%"/></td>
+     <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%" height="50%" /></td>
     <td align="center" width="50%"> commande line interface to the deamon server </td>
   </tr>
 </table>
@@ -46,7 +46,7 @@
     <td align="center" width="30%"> 
       <a href="https://github.com/jadbathore/three_js_project"><img width=60% src="https://img.shields.io/badge/Close-three_js_project-red?logo=github&style=plastic"/></a>
     </td>
-     <td align="center" width="20%"><img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/8962c4d6-7472-4b7b-b1af-494b9c79d52c" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50%" height="50%"/></td>
+     <td align="center" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50%" height="50%"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="50%" height="50%"/></td>
     <td align="center" width="50%"> three.js blunder + transpiler  </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@
     <td align="center" width="30%"> 
       <a href="https://github.com/jadbathore/stampy-php-cli"><img width=60% src="https://img.shields.io/badge/Close-stampy_php_cli-red?logo=github&style=plastic"/></a>
     </td>
-     <td align="center" width="20%"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50%" height="50%"/><img src="https://github.com/user-attachments/assets/92131dbc-ac6d-4794-93cf-370809384794" title="rust" alt="rust" width="50%" height="50%"/></td>
+     <td align="center" width="20%"><img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="50%" height="50%" /><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50%" height="50%"/></td>
     <td align="center" width="50%"> command line interface for php with a docker version </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
     <img src="https://api.iconify.design/devicon:composer.svg" alt="composer" width="5%" height="5%" title="composer"/>
     <img alt="image" src="https://github.com/user-attachments/assets/2a4138d6-6111-48ca-a523-826f514d5326" width="5%" height="5%" title="symfony"/>
     <img width="5%" height="5%"  alt="image" src="https://github.com/user-attachments/assets/0f1829b3-df3e-4823-b93a-5253f700c3e6" title="twig"/>
-    <img src="https://github.com/user-attachments/assets/92131dbc-ac6d-4794-93cf-370809384794" title="rust" alt="rust" width="5%" height="5%"/>
+    <img src="https://api.iconify.design/skill-icons:rust.svg" alt="rust" width="5%" height="5%" />
     <img src="https://api.iconify.design/devicon:cmake-wordmark.svg" alt="cmake-wordmark" width="5%" height="5%" title="cmake"/>
     <img src="https://api.iconify.design/devicon:bash.svg" alt="bash" width="5%" height="5%" title="bash"/>
     <img width="5%" height="5%" alt="image" src="https://github.com/user-attachments/assets/8e11e8f4-2ddd-4625-87f4-843d9417071b" title="ubuntu"/>
